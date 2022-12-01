@@ -101,9 +101,9 @@ CREATE TABLE `employee` (
 --
 
 INSERT INTO `employee` (`id`, `name`, `surname`, `age`, `phone`, `osvita`, `id_work`, `id_category`) VALUES
-(1, 'Andry', 'Nigga', 21, 953343454, 'Viska', 2, 2),
-(3, 'Vladislav', 'Nigga', 21, 953343454, 'Viska', 2, 1),
-(4, 'Andrys', 'Nigga', 21, 953343454, 'Viska', 1, 2);
+(1, 'Andry', 'Fisenko', 21, 953343454, 'Viska', 2, 2),
+(3, 'Vladislav', 'Ostapov', 21, 953343454, 'Viska', 2, 1),
+(4, 'Andrys', 'Prytulyak', 21, 953343454, 'Viska', 1, 2);
 
 -- --------------------------------------------------------
 
